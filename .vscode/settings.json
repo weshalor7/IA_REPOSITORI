@@ -1,0 +1,13 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.associations": {
+    "Modelfile": "dockerfile"
+  },
+  "python.defaultInterpreterPath": ".venv\\Scripts\\python.exe",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.scrollback": 10000,
+  "terminal.integrated.env.windows": {
+    "PYTHONUTF8": "1"
+  }
+}
